@@ -4,10 +4,9 @@
 #
 # samtools	- http://samtools.sourceforge.net/
 # pairtools 	- https://pairtools.readthedocs.io/en/latest/
+# pirix		- https://github.com/4dn-dcic/pairix
 # BWA 		- http://bio-bwa.sourceforge.net/
 # cooler 	- https://github.com/mirnylab/cooler
-
-
 
 
 
