@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# Softwares requested
+#
+# fastqc	- https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+# samtools	- http://samtools.sourceforge.net/ 
+# STAR		- https://github.com/alexdobin/STAR
+# Subread	- http://subread.sourceforge.net/
+# Multiqc	- https://multiqc.info/
 
 
 PROJECT_DIR="X"
