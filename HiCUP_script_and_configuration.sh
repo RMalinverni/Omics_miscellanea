@@ -1,6 +1,14 @@
 #!/bin/bash
 
-alias hicup='~/soft/hicup_v0.7.3/hicup'
+#alias hicup='~/soft/hicup_v0.7.3/hicup'
+# Softwares requested
+# HICUP 	-https://www.bioinformatics.babraham.ac.uk/projects/hicup/
+#   |--------------------- hicup need:
+#   |--------------------- Bowtie or Bowtie2 (in this script only Bowtie2 is actually work)
+#   |--------------------- Perl
+#   |--------------------- R (ver > 3.1.2)
+#   |--------------------- SAMtools (version 0.1.18 or later)
+
 
 OUTDIR=$(pwd)
 CORES=8
